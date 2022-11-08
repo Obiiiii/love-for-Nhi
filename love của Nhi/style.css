@@ -1,0 +1,18 @@
+html,
+h1 {
+      font-weight: lighter;
+      grid-column: span 3;
+      text-align: center;
+      color: #ff80ed;
+	margin-left: 24px;
+	//font-style: Bradley Hand ITC;
+	//font-family: Bradley Hand, cursive;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+//h1 {
+      font-weight: lighter;
+      grid-column: span 3;
+      text-align: center;
+      color: #ffffff;
+	margin-left: -50px;
+//}
